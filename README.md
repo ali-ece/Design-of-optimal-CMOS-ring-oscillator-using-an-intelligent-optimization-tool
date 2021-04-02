@@ -5,4 +5,4 @@
 
 ** All MATLAB implementation files, circuit simulation in HSpace with results and article link are freely available.
 
-A. Mohammadi, M. Mohammadi, and S. H. Zahiri, “Design of optimal CMOS ring oscillator using an intelligent optimization tool,” Soft Computing, 22, pp. 8151–8166, 2018.
+A. Mohammadi, M. Mohammadi, and S. H. Zahiri, “Design of optimal CMOS ring oscillator using an intelligent optimization tool,” Soft Computing, 22, pp. 8151–8166, 2018.https://link.springer.com/article/10.1007/s00500-017-2759-4
